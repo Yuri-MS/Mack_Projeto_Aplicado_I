@@ -1,5 +1,5 @@
 ### Mack_Projeto_Aplicado_I
-Grupo:
+Grupo: <br />
   ADRIELLI CRISTINA PEREIRA <br />
   CAIO SEIDI SHISHIDO <br />
   RICARDO MANOEL FERREIRA DE OLIVEIRA <br />
