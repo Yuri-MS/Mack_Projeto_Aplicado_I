@@ -10,3 +10,5 @@ O estudo tem como objetivo geral realizar uma análise exploratória nos dados h
 	Já como objetivos específicos no estudo temos: <br />
 I.	Aplicar análise descritiva no dataset. <br />
 II.	Fazer correlação entre preços de revenda e indicadores econômicos. <br />
+
+Link para o vídeo: https://youtu.be/pJdCW2EVUfM
